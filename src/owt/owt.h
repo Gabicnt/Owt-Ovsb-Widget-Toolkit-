@@ -7,5 +7,11 @@
 #include "owt_window.h"
 #include "owt_label.h"
 #include "owt_button.h"
+#include "owt_textbox.h"
+#include "owt_statusbar.h"
+#include "owt_listview.h"
+#include "owt_combobox.h"
+#include "owt_menu.h"
+#include "owt_dialog.h"
 
 #endif
